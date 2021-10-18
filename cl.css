@@ -8,5 +8,6 @@ font-style: italic;
 font-family: 'Lucida Sans';
 background-color: black;
 color: grey;
+padding-top: 10px;
 }
 .col-4{font-weight: bold;}
