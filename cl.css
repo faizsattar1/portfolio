@@ -2,4 +2,5 @@ body{background-image: url(https://images.unsplash.com/photo-1534430480872-34983
 }
 div{border-color: black;}
 h2{text-align: center;
-text-size-adjust: 20px;}
+text-size-adjust: 20px;
+padding-left: 50%;}
