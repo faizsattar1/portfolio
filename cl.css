@@ -42,5 +42,16 @@ nav ul li{
   display: inline-block;
   line-height: 80px;
   margin: 0 40px;
-
+}
+nav ul li a{
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+  padding: 7px 14px;
+  border-radius: 3px;
+}
+a.active,a:hover{
+  background: rgb(179, 176, 176);
+  transition: 0.5s;
+    
 }
